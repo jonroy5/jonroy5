@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Applied Computer Science Java
 - 🤔 I’m looking for Career Opportunities Within the Backend Development or Software Field
 - 💬 Ask me about What Ive Learned So Far!
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
